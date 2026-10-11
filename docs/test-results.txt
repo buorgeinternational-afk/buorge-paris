@@ -1,0 +1,3 @@
+Local integration tests passed: 2026-10-11T06:11:40.715Z
+Ten seed products; admin access; five uploads; publish/reload; discount on/off; server pricing; stock validation; duplicate checkout; payment pending; cross-account isolation; cancellation; popup persistence; provider fail-closed; CSRF; actual analytics.
+Live external providers were not tested because merchant credentials are not configured.
